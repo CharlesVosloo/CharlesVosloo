@@ -1,5 +1,5 @@
  
-- 💞️ Hi, I’m Charles Vosloo. This is a second profile github.com/CharlesVosloo
+- 💞️ Hi, I’m Charles Vosloo. This is a second github profile located at github.com/CharlesVosloo
 - 👋 My main github profile is located at https://github.com/journeyman33
 - 👀 where I am persuing DevOps and kubernetes
 
