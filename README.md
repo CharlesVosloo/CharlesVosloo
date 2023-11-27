@@ -1,6 +1,6 @@
  
 - Hi 🖐️, I’m Charles Vosloo. This is a second github profile located at github.com/CharlesVosloo
-- Before I was a 🌱cucumber 🥒 farmer but now I persue Devops and kubernetes
+- I was a 🌱cucumber 🥒 farmer for 10 years. I now I persue Devops and kubernetes.
 - My main github profile is located at https://github.com/journeyman33
   
    
